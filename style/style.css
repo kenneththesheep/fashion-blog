@@ -1,0 +1,57 @@
+.headerText{
+	color:#D52525;
+	text-decoration: none;
+	font-size: 50px
+}
+.headerText:hover{
+	color:#D52525;
+	text-decoration: none;
+}
+.linkText{
+	color:#D52525;
+	text-decoration: none;
+	font-size: 30px
+}
+.linkText:hover{
+	color:#D52525;
+	text-decoration: none;
+}
+.navlink{
+	text-decoration: underline;
+	color:#C4C5C4;
+	font-size: 25px
+}
+.navlink2{
+	text-decoration: underline;
+	color:#D52525;
+	font-size: 25px
+}
+.datetext{
+		color:#C4C5C4;
+		font-size: 50px
+}
+.subheadertext, .subheadertext:hover{
+	text-decoration: none;
+	color:#000000;
+}
+img {
+	width:100%;
+}
+p:first-child:first-letter {
+  color: #C4C5C4;
+  float: left;
+  font-family: Georgia;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+hr { display: block;
+	margin-before: 0.5em;
+	margin-after: 0.5em;
+	margin-start: auto;
+	margin-end: auto;
+	overflow: hidden;
+	border-style: inset;
+	border-width: 1px;}
